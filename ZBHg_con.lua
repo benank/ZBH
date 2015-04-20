@@ -104,7 +104,7 @@ function ScriptInit()
 			assault	= { "all_inf_rocketeer",0,0},
 			engineer = { "all_inf_engineer",0,0},
 			sniper	= { "all_inf_sniper",0,0},
-			officer	= { "all_inf_officer",0,0},
+			--officer	= { "all_inf_officer",0,0},
 			special	= { "all_inf_wookiee",0,0},
 
 		},
